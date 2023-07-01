@@ -1,3 +1,2 @@
-# NZMSA-2023-Phase-1
-contain code for practice of using GitHub 
-Currently I am watching some video from Youtube channel.
+# NZMSA-2023-Phase-2
+contain code for phase 2 of the NZMSA phase 2 
